@@ -4,6 +4,7 @@
 ## impact of cover crops on corn yields.
 ## Yield effect = mean + error_paper + X(management_cover crop) + error_between_papers + error
 ## Yield effect= log-(Yield_cover - Yield_no_cover)/(yield_no_cover)
+## Required: metawcc.csv (This file is included in the master)
 ################################################################
 
 require(metafor)                # Should load up every library required
