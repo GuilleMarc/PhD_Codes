@@ -9,4 +9,4 @@ my PhD in the agronomy department at Iowa State University.
 
 I have done minimal maintenance to it so is included here for reference purposes only.
 
-For data requests, original files, or additional questions please contact me at: gmarcil@ncsu.edu
+For data requests, original files, or additional questions please contact me at: gmarcillo@wtamu.edu
